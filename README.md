@@ -9,5 +9,5 @@
   
 👨‍💻 23 Years old Full Stack Developer  
 👨‍🎓 2019 Computer Science graduate  
-👨‍🎓 Living in Chicago USA  
+👨‍🏠 Living in Chicago USA  
 🚧 **Current Project:** [fake-money](https://github.com/rgulden/fiat-sucks)  
