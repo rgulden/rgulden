@@ -7,6 +7,6 @@
 [![guldentechjobs@gmail.com](https://img.shields.io/static/v1?label=guldentechjobs@gmail.com&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:guldentechjobs@gmail.com)
   
   
-👨‍💻 22 Years old Full Stack Developer / Data Platform Engineer  
+👨‍💻 23 Years old Full Stack Developer / Data Platform Engineer  
 👨‍🎓 Computer Science graduate living in Chicago USA  
 🚧 **Current Project:** [fake-money](https://github.com/rgulden/fiat-sucks)  
