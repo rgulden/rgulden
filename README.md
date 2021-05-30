@@ -1,6 +1,6 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=rgulden&show_icons=true">
 
-### Hi there I'm Ryan:
+### Hi there I'm Ryan
 
 [![rgulden.github.io](https://img.shields.io/static/v1?label=rgulden.github.io&message=%20&color=yellow&logo=&style=flat-square&logoColor=white)](https://rgulden.github.io)
 [![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&color=orange&logo=Instagram&style=flat-square&logoColor=white)](https://www.instagram.com/guldentech/)
