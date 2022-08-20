@@ -7,6 +7,6 @@
 [![guldentechjobs@gmail.com](https://img.shields.io/static/v1?label=guldentechjobs@gmail.com&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:guldentechjobs@gmail.com)
   
   
-👨‍💻 24 Years old Full Stack Developer  
+👨‍💻 25 Years old Full Stack Developer / MLOps Engineer
 👨‍🎓 2019 Computer Science graduate  
 🏠 Living in Chicago USA 
