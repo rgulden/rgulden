@@ -1,5 +1,3 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=rgulden&show_icons=true">
-
 ### Hi there I'm Ryan
 
 [![rgulden.github.io](https://img.shields.io/static/v1?label=rgulden.github.io&message=%20&color=yellow&logo=&style=flat-square&logoColor=white)](https://rgulden.github.io)
@@ -7,6 +5,6 @@
 [![guldentechjobs@gmail.com](https://img.shields.io/static/v1?label=guldentechjobs@gmail.com&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:guldentechjobs@gmail.com)
   
   
-👨‍💻 25 Years old Full Stack Developer / MLOps Engineer  
+👨‍💻 26 Years old Full Stack Developer / MLOps Engineer  
 👨‍🎓 2019 Computer Science graduate  
 🏠 Living in Chicago USA 
