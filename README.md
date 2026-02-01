@@ -7,3 +7,5 @@
 👨‍💻 29 Years old Developer / MLOps Engineer / Cloud Engineer / AI & ML Engineer  
 👨‍🎓 2019 Computer Science graduate  
 🏠 Living in IL USA 
+
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/guldentech)
